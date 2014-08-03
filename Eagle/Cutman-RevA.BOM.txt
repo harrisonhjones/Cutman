@@ -1,0 +1,36 @@
+Partlist exported from E:/Dropbox/Projects/Eagle/Projects/Rocket/Cutdown/Cutdown-V2-RevA.sch at 7/26/2014 10:24:21 PM
+
+Part      Value            Device                Package                    Description                          PROD_ID    VALUE        
+BAT3                       BATTERYAA-KIT         BATTERY-AA-KIT             Battery Holders                      BATT-08316              
+BAT4                       BATTERYAA-KIT         BATTERY-AA-KIT             Battery Holders                      BATT-08316              
+D2                         DIODEPTH              DIODE-1N4001               Diode                                                        
+J1        AVR_SPI_PRG_6PTH AVR_SPI_PRG_6PTH      2X3                        AVR ISP 6 Pin                                                
+JP1       NichromeWire     M023.5MM_LOCK         SCREWTERMINAL-3.5MM-2_LOCK Standard 2-pin 0.1" header. Use with                         
+JP2       Power            M023.5MM_LOCK         SCREWTERMINAL-3.5MM-2_LOCK Standard 2-pin 0.1" header. Use with                         
+JP3       BunchesOfStuff   M03SCREW              SCREWTERMINAL-3.5MM-3      Header 3                                                     
+JP4       VSense           M023.5MM_LOCK         SCREWTERMINAL-3.5MM-2_LOCK Standard 2-pin 0.1" header. Use with                         
+JP6       Arm/Cut          M023.5MM_LOCK         SCREWTERMINAL-3.5MM-2_LOCK Standard 2-pin 0.1" header. Use with                         
+LED1      Cutting          LED5MM                LED5MM                     LED                                                          
+LED2      ARM              LED5MM                LED5MM                     LED                                                          
+LED3      CUT              LED5MM                LED5MM                     LED                                                          
+LED4      !Cutting         LED5MM                LED5MM                     LED                                                          
+Q1                         TRANSISTOR_NPNTO92    TO-92                      Generic NPN BJT                                              
+Q2                         TRANSISTOR_NPNTO92    TO-92                      Generic NPN BJT                                              
+R1        1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R2        1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R3        10k              RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R4        10k              RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R6        50k              RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R7        1k               R-US_0309/V           0309V                      RESISTOR, American symbol                                    
+R12       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R13       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R14       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R15       50k              RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R16       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R17       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R18       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+R19       1k               RESISTORAXIAL-0.3     AXIAL-0.3                  Resistor                                                     
+STANDOFF1 STAND-OFF        STAND-OFF             STAND-OFF                  #4 Stand Off                                                 
+STANDOFF2 STAND-OFF        STAND-OFF             STAND-OFF                  #4 Stand Off                                                 
+U$1       RELAYPTH4        RELAYPTH4             RELAY-JZC                  SPDT relay (COM-00101)                                       
+U2        TINY45-20-DIP    ATTINY45TINY45-20-DIP DIP08                      Atmel 8-pin 2/4/8kB flash uC         IC-09439   TINY45-20-DIP
