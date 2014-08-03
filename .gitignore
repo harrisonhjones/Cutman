@@ -1,0 +1,4 @@
+# Eagle Saves / Config
+*.b#*
+*.s#*
+*.epf
