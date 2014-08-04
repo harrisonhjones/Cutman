@@ -2,3 +2,6 @@
 *.b#*
 *.s#*
 *.epf
+
+# Windows Stuff
+Thumbs.db
