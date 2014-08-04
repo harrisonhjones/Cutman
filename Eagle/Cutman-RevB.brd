@@ -224,7 +224,7 @@
 <wire x1="39.37" y1="35.56" x2="39.37" y2="35.2425" width="0.254" layer="22" curve="-163.740848"/>
 <wire x1="39.37" y1="35.2425" x2="39.37" y2="34.6075" width="0.254" layer="22" curve="163.742322"/>
 <wire x1="39.37" y1="34.6075" x2="39.37" y2="34.29" width="0.254" layer="22" curve="-163.743795"/>
-<text x="29.21" y="27.94" size="2.54" layer="22" font="vector" ratio="16" rot="MR0" align="center">CUTMAN</text>
+<text x="36.83" y="31.75" size="2.54" layer="22" font="vector" ratio="16" rot="MR0" align="center">CUTMAN</text>
 <text x="48.41875" y="14.76375" size="0.8128" layer="22" font="vector" ratio="16" rot="MR0" align="center">PreNW PostNW</text>
 <text x="28.41625" y="8.89" size="1.27" layer="21" font="vector" ratio="16" rot="R180" align="center">GND</text>
 <text x="9.36625" y="19.20875" size="1.27" layer="21" font="vector" ratio="16" rot="R90" align="center">ARM</text>
@@ -235,9 +235,9 @@
 <text x="57.4675" y="29.845" size="1.27" layer="21" font="vector" ratio="16" rot="R90" align="center">SENSE</text>
 <text x="59.21375" y="31.75" size="1.27" layer="21" font="vector" ratio="16" rot="R90" align="center">BN</text>
 <text x="59.3725" y="28.575" size="1.27" layer="21" font="vector" ratio="16" rot="R270" align="center">AN</text>
-<text x="31.75" y="25.4" size="1.27" layer="22" font="vector" ratio="16" rot="MR0" align="center">8/3/2014</text>
-<text x="24.13" y="25.4" size="1.27" layer="22" font="vector" ratio="16" rot="MR0" align="center">REVB</text>
-<text x="29.21" y="22.86" size="1.27" layer="22" font="vector" ratio="16" rot="MR0" align="center">Harrison H Jones</text>
+<text x="39.37" y="29.21" size="1.27" layer="22" font="vector" ratio="16" rot="MR0" align="center">8/3/2014</text>
+<text x="31.75" y="29.21" size="1.27" layer="22" font="vector" ratio="16" rot="MR0" align="center">REVB</text>
+<text x="36.195" y="27.305" size="1.27" layer="22" font="vector" ratio="16" rot="MR0" align="center">Harrison H Jones</text>
 <hole x="24.13" y="43.18" drill="3.2"/>
 <text x="24.28875" y="8.89" size="1.27" layer="21" font="vector" ratio="16" rot="R180" align="center">5V</text>
 <text x="38.1" y="19.05" size="1.778" layer="21" font="vector" ratio="16" align="center">CUTMAN</text>
